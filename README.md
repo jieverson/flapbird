@@ -1,6 +1,9 @@
 flapbird
 ========
 
+See running:
+http://serene-journey-3238.herokuapp.com/
+
 Language: Javascript
 Game Engine: Phaser.io
 
