@@ -1,7 +1,17 @@
 flapbird
 ========
 
-https://www.codeship.io/projects/00f4a540-b62f-0131-07c8-5e01a154bb76/status
+Language: Javascript
+Game Engine: Phaser.io
+
+Generator Phaser Official:
+https://github.com/codevinsky/generator-phaser-official
+
+Generating Heroku:
+https://github.com/passy/generator-heroku
+
+Thanks to:
+Yeoman and Node.js
 
 Push to heroku:
 git subtree push --prefix dist heroku master
