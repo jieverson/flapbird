@@ -2,7 +2,7 @@ flapbird
 ========
 
 See running:
-http://serene-journey-3238.herokuapp.com/
+https://flapbird.herokuapp.com/
 
 Language: Javascript
 
